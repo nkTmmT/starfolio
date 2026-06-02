@@ -12,11 +12,11 @@ import { Kubernetes } from "@/components/ui/svgs/kubernetes";
 import { Astro } from "@/components/ui/svgs/astro";
 
 export const DATA = {
-  name: "Alex Mercer - Software Engineer",
-  initials: "AM",
-  url: "https://alexmercer.dev",
-  location: "Austin, TX",
-  locationLink: "https://www.google.com/maps/place/austin+tx",
+  name: "Tom Mo - Software Engineer",
+  initials: "TM",
+  url: "https://tmmt.dev",
+  location: "DongGuan, CHINA",
+  locationLink: "https://www.google.com/maps/place/%E4%B8%AD%E5%9B%BD%E5%B9%BF%E4%B8%9C%E7%9C%81%E4%B8%9C%E8%8E%9E%E5%B8%82",
   description:
     "Full-stack engineer turned indie founder. I love building developer tools, fast UIs, and products people actually use.",
   summary:
@@ -79,12 +79,12 @@ export const DATA = {
     { href: "/blog", icon: Library, label: "Blog" },
   ],
   contact: {
-    email: "alex@alexmercer.dev",
+    email: "admin@tmmt.dev",
     tel: "+1 512 000 0000",
     social: {
       GitHub: {
         name: "GitHub",
-        url: "https://github.com",
+        url: "https://github.com/nkTmmT",
         icon: Icons.github,
         navbar: true,
       },
@@ -108,7 +108,7 @@ export const DATA = {
       },
       email: {
         name: "Send Email",
-        url: "mailto:alex@alexmercer.dev",
+        url: "mailto:admin@tmmt.dev",
         icon: Icons.email,
         navbar: false,
       },
