@@ -80,7 +80,7 @@ export const DATA = {
   ],
   contact: {
     email: "admin@tmmt.dev",
-    tel: "+1 512 000 0000",
+    tel: "+86 17695617120",
     social: {
       GitHub: {
         name: "GitHub",
@@ -225,26 +225,24 @@ export const DATA = {
   ],
   projects: [
     {
-      title: "Stackwise",
-      href: "https://stackwise.dev",
+      title: "Blog",
+      href: "https://blog.tmmt.dev",
       dates: "March 2024 - Present",
       active: true,
       description:
         "Built an AI-powered code review tool that integrates with GitHub PRs and provides context-aware feedback based on your team's codebase conventions. Used by 300+ engineering teams.",
       technologies: [
-        "Next.js",
+        "Astro",
         "TypeScript",
-        "PostgreSQL",
-        "Prisma",
         "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "OpenAI API",
+        "Iconify",
+        "Svelte",
+        "MDX",
       ],
       links: [
         {
           type: "Website",
-          href: "https://stackwise.dev",
+          href: "https://blog.tmmt.dev",
           icon: <Icons.globe className="size-3" />,
         },
       ],
